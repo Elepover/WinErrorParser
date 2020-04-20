@@ -2,7 +2,7 @@
 using System.IO;
 using System.Text;
 
-namespace ConsoleApp_NetCore
+namespace WinErrorParser
 {
     public partial class Program
     {

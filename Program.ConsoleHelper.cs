@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ConsoleApp_NetCore
+namespace WinErrorParser
 {
     public partial class Program
     {

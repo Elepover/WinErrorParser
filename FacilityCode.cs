@@ -1,4 +1,4 @@
-﻿namespace ConsoleApp_NetCore
+﻿namespace WinErrorParser
 {
     public class FacilityCode
     {

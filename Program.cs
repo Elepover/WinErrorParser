@@ -7,7 +7,7 @@ using System.Text;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 
-namespace ConsoleApp_NetCore
+namespace WinErrorParser
 {
     public partial class Program
     {

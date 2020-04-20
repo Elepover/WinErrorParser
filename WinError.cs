@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace ConsoleApp_NetCore
+namespace WinErrorParser
 {
     public class WinError
     {
